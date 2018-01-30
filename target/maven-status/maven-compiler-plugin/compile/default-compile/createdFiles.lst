@@ -1,6 +1,7 @@
-com\yani\wallStreetTicker\App.class
-repositories\QuoteData.class
 services\QuoteService.class
-util\StockURLBuilder.class
 util\URLBuilder.class
 models\Quote.class
+com\yani\wallStreetTicker\App.class
+util\MarketTimer.class
+repositories\QuoteData.class
+util\StockURLBuilder.class
