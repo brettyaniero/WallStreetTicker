@@ -12,5 +12,6 @@ public class MarketTimer extends TimerTask {
 
 	public void run() {
 		subject.refreshData();
+		System.out.println("reached");
 	}
 }

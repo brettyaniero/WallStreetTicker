@@ -1,7 +1,7 @@
 package models;
 
 public class Quote {
-	private float askPrice;
+	private float askPrice = 0;
 	private int askSize;
 	private float bidPrice;
 	private int bidSize;
@@ -94,7 +94,7 @@ public class Quote {
 		this.symbol = symbol;
 	}
 	
-	public boolean isTradingHalted() {
+	public boolean getTradingHalted() {
 		return tradingHalted;
 	}
 	

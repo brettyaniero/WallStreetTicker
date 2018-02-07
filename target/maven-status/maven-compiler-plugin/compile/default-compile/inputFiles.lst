@@ -2,6 +2,8 @@ C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\services\QuoteService.java
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\util\MarketTimer.java
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\App.java
+C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\util\QuoteResponseParser.java
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\models\Quote.java
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\repositories\QuoteData.java
+C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\util\ResponseParser.java
 C:\Users\Brett Yaniero\WallStreetTicker\src\main\java\com\yani\wallStreetTicker\util\StockURLBuilder.java
