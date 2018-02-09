@@ -2,7 +2,9 @@ util\ResponseParser.class
 services\QuoteService.class
 util\URLBuilder.class
 models\Quote.class
+util\QuoteFileWriter.class
 util\QuoteResponseParser.class
+util\FileWriter.class
 com\yani\wallStreetTicker\App.class
 util\MarketTimer.class
 repositories\QuoteData.class

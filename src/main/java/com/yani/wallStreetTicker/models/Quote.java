@@ -1,7 +1,7 @@
 package models;
 
 public class Quote {
-	private float askPrice = 0;
+	private float askPrice;
 	private int askSize;
 	private float bidPrice;
 	private int bidSize;
