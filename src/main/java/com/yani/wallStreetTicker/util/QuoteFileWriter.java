@@ -1,8 +1,15 @@
 package util;
 
+import java.util.ArrayList;
+
+import models.Quote;
+
 public class QuoteFileWriter extends FileWriter {
-	public QuoteFileWriter(String fileName) {
+	private ArrayList<String> tickers;
+
+	public QuoteFileWriter(String fileName, ArrayList<String> tickers) {
 		super(fileName);
+		this.quotes = quotes;
 	}
 
 	public int read() {
