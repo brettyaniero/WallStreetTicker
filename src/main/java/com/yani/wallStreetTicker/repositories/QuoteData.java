@@ -20,7 +20,7 @@ public class QuoteData extends Observable {
 	
 	public void refreshData() {
 		quotes = quoteService.getQuotes(stockTickers);
-		System.out.println("Quote service called");
+		setChanged();
 		notifyObservers();
 	}
 

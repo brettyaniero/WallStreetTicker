@@ -9,7 +9,7 @@ public class QuoteFileWriter extends FileWriter {
 
 	public QuoteFileWriter(String fileName, ArrayList<String> tickers) {
 		super(fileName);
-		this.quotes = quotes;
+		this.tickers = tickers;
 	}
 
 	public int read() {
